@@ -16,7 +16,7 @@ cd /opt
 
 echo "---CUSTOM Clonando app---"
 mkdir /opt/aplicacion
-git clone https://github.com/macrujugl/aplicacion aplicacion
+git clone https://github.com/macrujugl/app2 aplicacion
 chown -R mario:www-data aplicacion
 cd /opt/aplicacion
 
